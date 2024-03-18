@@ -1,0 +1,6 @@
+package com.Staffin.seasense
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
